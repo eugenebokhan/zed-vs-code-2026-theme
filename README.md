@@ -1,12 +1,8 @@
-[![Zed Extension](https://img.shields.io/badge/-Zed_Extension-blue?style=flat&logo=zedindustries&logoColor=%23FFFFFF&logoSize=auto&labelColor=%23111111&color=%23084CCF)](https://zed.dev/extensions/cursor-theme)
+[![Zed Extension](https://img.shields.io/badge/-Zed_Extension-blue?style=flat&logo=zedindustries&logoColor=%23FFFFFF&logoSize=auto&labelColor=%23111111&color=%23084CCF)](https://zed.dev/extensions/vscode-2026-theme)
 
 # VS Code 2026 Theme for Zed
 
 VS Code 2026 inspired light and dark themes for [Zed](https://zed.dev).
-
-
-
-Cursor inspired theme for [Zed](https://zed.dev).
 
 ## Screenshot
 

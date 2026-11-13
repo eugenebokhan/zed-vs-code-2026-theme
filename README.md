@@ -4,15 +4,7 @@
 
 VS Code 2026 inspired light and dark themes for [Zed](https://zed.dev).
 
-## Screenshot
-
-### Light
-
-![Light](screenshots/light.png)
-
-### Dark
-
-![Dark](screenshots/dark.png)
+![Rust syntax highlighting in VS Code Light 2026 and VS Code Dark 2026](assets/preview.png)
 
 ## Usage
 
